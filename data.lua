@@ -6,9 +6,9 @@ local biter_sizes = {"small", "medium", "big", "behemoth"}
 local loot_scaling =
 {
   small = 1,
-  medium = 1,
-  big = 1,
-  behemoth = 1
+  medium = 2.5,
+  big = 10,
+  behemoth = 25
 }
 
 local function make_loot(item_name, size, multiplier)
