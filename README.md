@@ -14,3 +14,5 @@ Loot dropped by enemies:
 
 Crude oil is dropped as barrels that can be emptied with the ratio 10 barrels -> 50 crude oil. Emptying these barrels does *not* result in empty barrels.   
 Obtaining uranium ore does not require sulfuric acid, it is simply dropped by the enemies.
+
+THIS IS THE ORIGINAL README, all credit to the original dev.
